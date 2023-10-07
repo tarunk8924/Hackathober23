@@ -1,2 +1,6 @@
-# Hackathober23
-Hackathon on 7th and 8th October
+#include<stdio.h>
+int main()
+{
+printf("Hello World");
+return 0;
+}
